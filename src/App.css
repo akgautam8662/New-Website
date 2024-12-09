@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('./assets/Fonts/Acharne.ttf');
+
+  }
+  @font-face {
+    font-family: 'MyCustomFont2';
+    src: url('./assets/Fonts/RIMONS.ttf');
+  }
+
+  @font-face {
+    font-family: 'MyCustomFont3';
+    src: url('./assets/Fonts/Marck.ttf');
+  }
