@@ -1,17 +1,20 @@
 import './App.css'
 import AboutSection from './Components/AboutSection'
-import HomePage from './Components/HomePage'
+import ExperienceSection from './Components/ExperienceSection'
 import MainPage from './Components/MainPage'
 import Navbar from './Components/Navbar'
+import SkillsSection from './Components/SkillsSection'
+
 
 function App() {
 
   return (
     <>
-       <Navbar/>
-      {/* <HomePage/> */}
+      <Navbar/>
       <MainPage/>
       <AboutSection/>
+      <ExperienceSection/>
+      <SkillsSection/>
     </>
   )
 }
